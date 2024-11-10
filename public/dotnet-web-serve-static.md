@@ -168,7 +168,7 @@ npm run build
 
 すると `out` ディレクトリが `client` ディレクトリ下にできて、その中に `html` や `js` ファイルなどが生成される。これを `server/TestWebApp.Server.Api/wwwroot` ディレクトにコピーすればサーバー側でサーブできるようになる。
 
-## 開発のための設定
+## (オプション) 開発のための設定
 
 ### サーバー側
 
@@ -203,4 +203,4 @@ mklink /D wwwroot ../../client/out
 
 Next.js の場合のやり方は以下参考。
 
-[Next.js で api で始まるリクエストは別サーバーに回す](./option01-NextJsRewrite.md)
+<https://qiita.com/2017Yasu/items/5e78b00ebba16d29b57b>
