@@ -3,8 +3,8 @@ title: Next.js で /api で始まるすべてのリクエストを別サーバ�
 tags:
   - Next.js
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-11-10T13:52:07+09:00'
+id: 5e78b00ebba16d29b57b
 organization_url_name: null
 slide: false
 ignorePublish: false
